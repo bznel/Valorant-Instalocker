@@ -1,5 +1,7 @@
 # Instalocker
 
+# IMPORTANT: DO NOT USE THIS ON YOUR VALORANT ACCOUNT OR YOUR COMPUTER, RIOT DOESNT LIKE THESE API CALLS AND YOU WILL EVENTUALLY BE BANNED IF YOU DO USE IT. THIS IS PURELY A PROOF OF CONCEPT PROJECT.
+
 Simple python UI application that allows the user to instantly lock in their character (called an agent) in the game Valorant. It works by letting the user select an agent via a dropdown menu, then when the game loads into a new match, it will automatically select that agent for them.
 
 ## Requirements
